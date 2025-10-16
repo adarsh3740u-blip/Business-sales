@@ -33,6 +33,7 @@ Shefaly Dutta
 Dr. Arvind Pandey
 
 for their valuable mentorship and continuous support throughout this project.
+https://github.com/adarsh3740u-blip/Business-sales/blob/main/Screenshot%202025-10-15%20204341.png
 
 A heartfelt thanks to Arka Jain University
  for providing us with the platform to explore real-world data analytics through Power BI.
